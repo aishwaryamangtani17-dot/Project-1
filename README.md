@@ -1,4 +1,4 @@
-✅ Project 1: Calculator Program
+Project 1: Calculator Program
 📝 README.md for Calculator Repository
 markdown
 Copy
